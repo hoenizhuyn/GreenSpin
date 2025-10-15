@@ -1,0 +1,6 @@
+python-dotenv
+autogen
+ag2[openai]
+pydantic==2.11.7
+fastapi
+openai
