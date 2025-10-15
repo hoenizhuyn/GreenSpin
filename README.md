@@ -1,7 +1,7 @@
 #  GreenSpin - CSR project with AI agent backend
-##### Agentic Design Summer 2025 - Munich University of Applied Science
-[Project Development Report and Overview](https://drive.google.com/file/d/1JCtq9A2FXTjZkXC7X22sYW8dtye5PGdI/view?usp=drive_link) \\
-Original repo cloned from (https://github.com/ayd858/GreenSpin)
+#### Agentic Design Summer 2025 - Munich University of Applied Science
+[Project Development Report and Overview](https://drive.google.com/file/d/1JCtq9A2FXTjZkXC7X22sYW8dtye5PGdI/view?usp=drive_link)  
+Original repo cloned from [GreenSpin GitHub](https://github.com/ayd858/GreenSpin)  
 **GreenSpin** is a gamified task platform where employees can voluntarily take on small social and ecological challenges once a week. Participants are rewarded with bonus points that can be exchanged for vouchers or donated to good causes.  
 This repository provides an **AI agent backend** powered by [AutoGen](https://github.com/microsoft/autogen) that:
 
